@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76155a24-2186-40f1-a688-f22b2f96898c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gun01/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gun01/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gun01/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gun01/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Devices.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eVaqZiOkgWKGcNjw3BdDJlVkj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Test1.executor": "Run",
+    "TestNG.Test1.tsetConnection.executor": "Run",
+    "TestNG.Test2.tsetConnection.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gun01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test2.tsetConnection">
+    <configuration name="Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gun01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gun01" />
+      <option name="MAIN_CLASS_NAME" value="gun01.Test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.tsetConnection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gun01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gun01" />
+      <option name="MAIN_CLASS_NAME" value="gun01.Test1" />
+      <option name="METHOD_NAME" value="tsetConnection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.tsetConnection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gun01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gun01" />
+      <option name="MAIN_CLASS_NAME" value="gun01.Test2" />
+      <option name="METHOD_NAME" value="tsetConnection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test2.tsetConnection" />
+        <item itemvalue="TestNG.Test1.tsetConnection" />
+        <item itemvalue="TestNG.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76155a24-2186-40f1-a688-f22b2f96898c" name="Changes" comment="" />
+      <created>1711992393521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711992393521</updated>
+    </task>
+    <servers />
+  </component>
+</project>
